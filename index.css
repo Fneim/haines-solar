@@ -1,0 +1,42 @@
+body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#navbar {
+  width: 100%;
+  margin: 0;
+}
+
+.navbar {
+  background: #111;
+}
+
+.navbar-brand:hover {
+  color: #aaa;
+}
+
+.carousel, .carousel-inner {
+  width:100%;
+  height:auto;
+}
+
+.carousel{
+  margin-bottom:10px;
+}
+
+.card {
+  margin: 10px;
+  border: .50px solid #eee;
+  border-radius:0;
+}
+
+.card a {
+  color: #222;
+}
+
+.card:hover {
+  box-shadow: 5px 5px #eee;
+}
