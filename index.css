@@ -18,6 +18,10 @@ body {
   color: #aaa;
 }
 
+img {
+  object-fit:cover;
+}
+
 .carousel, .carousel-inner {
   width:100%;
   height:300px !important;
